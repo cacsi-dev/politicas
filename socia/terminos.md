@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Términos y Condiciones — Socia
+title: Términos y Condiciones — Santa Isabel
 ---
 
-# Términos y Condiciones de Uso — Socia
+# Términos y Condiciones de Uso — Santa Isabel
 
-**Última actualización:** 6 de marzo de 2026
+**Última actualización:** 1 de junio de 2026
 
-Los presentes Términos y Condiciones (en adelante, "Términos") regulan el uso de la aplicación móvil **Socia** (en adelante, "la Aplicación"), desarrollada y operada por la **Cooperativa de Ahorro y Crédito Santa Isabel** (en adelante, "la Cooperativa").
+Los presentes Términos y Condiciones regulan el uso de la aplicación móvil **Santa Isabel** (en adelante, "la Aplicación"), desarrollada y operada por la **Cooperativa de Ahorro y Crédito Santa Isabel** (en adelante, "la Cooperativa").
 
 Al descargar, instalar o utilizar la Aplicación, usted declara que ha leído, comprendido y aceptado estos Términos en su totalidad.
 
@@ -15,125 +15,149 @@ Al descargar, instalar o utilizar la Aplicación, usted declara que ha leído, c
 
 ## 1. Objeto de la Aplicación
 
-La Aplicación permite a los socios de la Cooperativa:
+Santa Isabel es la aplicación oficial para socios y socias de la Cooperativa.
 
-1. **Autenticarse** mediante su DNI y contraseña.
-2. **Registrarse** como nuevo usuario mediante verificación por SMS.
-3. **Participar en votaciones institucionales** de la Cooperativa.
-4. **Consultar información** relacionada con su condición de socio.
+La Aplicación permite, según el perfil y el estado de la cuenta del usuario:
+
+1. autenticarse con DNI y contraseña;
+2. registrarse o recuperar acceso mediante validación por clave SMS cuando corresponda;
+3. consultar cuentas de ahorro, saldos y detalle de cuentas propias;
+4. solicitar retiros de ahorros y consultar el estado de esas solicitudes;
+5. participar en votaciones institucionales habilitadas por la Cooperativa;
+6. acceder a canales de atención y soporte definidos por la Cooperativa.
+
+La Aplicación no ofrece préstamos personales, inversiones, criptomonedas ni servicios de trading.
 
 ---
 
 ## 2. Requisitos de uso
 
-Para utilizar la Aplicación, el usuario debe:
+Para utilizar la Aplicación, la persona usuaria debe:
 
-- Ser socio activo de la Cooperativa de Ahorro y Crédito Santa Isabel.
-- Ser mayor de 18 años.
-- Contar con un dispositivo móvil con sistema operativo Android compatible.
-- Disponer de conexión a Internet.
-- Haber completado el proceso de registro y verificación de identidad.
+- ser socia activa o estar habilitada por la Cooperativa para el flujo correspondiente;
+- ser mayor de 18 años;
+- contar con un dispositivo compatible y conexión a Internet;
+- completar, cuando aplique, el proceso de validación de identidad definido por la Cooperativa.
+
+La Cooperativa puede limitar funciones concretas según el estado del socio, la disponibilidad del servicio o reglas internas aplicables.
 
 ---
 
-## 3. Registro y cuenta de usuario
+## 3. Registro, acceso y cuenta
 
 - El acceso a la Aplicación requiere autenticación mediante DNI y contraseña.
-- El registro de un nuevo usuario requiere la verificación del número de teléfono mediante un código SMS.
-- El usuario es responsable de mantener la confidencialidad de sus credenciales de acceso.
-- El usuario no debe compartir sus credenciales con terceros.
-- En caso de sospecha de uso no autorizado, el usuario debe notificar a la Cooperativa de inmediato.
+- Algunos flujos de alta, recuperación o verificación requieren ingresar una clave SMS enviada al número registrado por la Cooperativa.
+- La persona usuaria es responsable de mantener la confidencialidad de sus credenciales.
+- No debe compartir sus credenciales ni permitir el uso de su cuenta por terceros.
+- Si sospecha un acceso no autorizado, debe comunicarlo de inmediato a la Cooperativa por los canales oficiales.
 
 ---
 
-## 4. Uso adecuado
+## 4. Consulta de cuentas y saldos
 
-El usuario se compromete a:
-
-- Utilizar la Aplicación únicamente para los fines previstos.
-- No intentar acceder a cuentas de otros socios.
-- No realizar ingeniería inversa, descompilar o modificar la Aplicación.
-- No utilizar la Aplicación para actividades ilegales o no autorizadas.
-- No intentar vulnerar la seguridad de la Aplicación o sus servidores.
+- La Aplicación muestra información de cuentas y saldos según los datos disponibles en los sistemas de la Cooperativa.
+- La información mostrada tiene carácter informativo y operativo dentro del marco de la relación del socio con la Cooperativa.
+- La Cooperativa puede actualizar, corregir, restringir o retirar temporalmente información cuando existan validaciones pendientes, mantenimiento, contingencias o requerimientos regulatorios.
 
 ---
 
-## 5. Votaciones
+## 5. Solicitudes de retiro
 
-- Las votaciones realizadas a través de la Aplicación son vinculantes conforme a los estatutos de la Cooperativa.
-- Cada socio tiene derecho a emitir un voto por cada proceso de votación habilitado.
-- Una vez confirmado el voto, este no puede ser modificado ni revertido.
-- La Cooperativa se reserva el derecho de habilitar o deshabilitar procesos de votación según sus necesidades institucionales.
-
----
-
-## 6. Disponibilidad del servicio
-
-- La Cooperativa se esfuerza por mantener la Aplicación disponible de forma continua, pero no garantiza un servicio ininterrumpido.
-- La Aplicación puede presentar interrupciones temporales por mantenimiento, actualizaciones o causas de fuerza mayor.
-- La Cooperativa no será responsable por daños derivados de la indisponibilidad temporal del servicio.
+- La Aplicación permite registrar solicitudes de retiro de ahorros propios cuando la Cooperativa tenga habilitado ese flujo para la cuenta del socio.
+- El registro de una solicitud de retiro no equivale por sí solo a la aprobación ni al desembolso inmediato del dinero.
+- La solicitud puede estar sujeta a validaciones operativas, límites, horarios, reglas internas, verificaciones de seguridad y obligaciones regulatorias.
+- La Cooperativa puede rechazar, observar o mantener en revisión una solicitud si detecta inconsistencias, restricciones o cualquier causal válida conforme a su normativa interna y la ley aplicable.
 
 ---
 
-## 7. Propiedad intelectual
+## 6. Votaciones institucionales
 
-- La Aplicación, su diseño, código fuente, logotipos, marcas e iconos son propiedad de la Cooperativa de Ahorro y Crédito Santa Isabel.
-- Queda prohibida la reproducción, distribución o modificación total o parcial de la Aplicación sin autorización expresa de la Cooperativa.
+- Las votaciones realizadas por la Aplicación forman parte de procesos institucionales definidos por la Cooperativa.
+- Cada socio solo puede participar en los procesos para los que haya sido habilitado.
+- Una vez emitido o confirmado un voto, este puede quedar sujeto a las reglas del proceso correspondiente y no necesariamente podrá revertirse.
+- La Cooperativa puede habilitar o cerrar procesos de votación según sus necesidades institucionales.
 
 ---
 
-## 8. Limitación de responsabilidad
+## 7. Uso adecuado
+
+La persona usuaria se compromete a:
+
+- usar la Aplicación solo para los fines autorizados;
+- no intentar acceder a cuentas o información de terceros;
+- no manipular, interferir, descompilar ni intentar vulnerar la seguridad de la Aplicación o de los sistemas relacionados;
+- no utilizar la Aplicación para fines ilícitos, fraudulentos o contrarios a los estatutos y reglamentos de la Cooperativa.
+
+---
+
+## 8. Baja y eliminación de cuenta
+
+- La persona usuaria puede solicitar la baja y eliminación de su cuenta de acceso mediante el canal oficial habilitado por la Cooperativa.
+- La vía operativa vigente es WhatsApp al +51 905 465 005.
+- Si la solicitud también implica dejar de ser socio o socia, la Cooperativa informará el procedimiento institucional aplicable.
+- La eliminación o baja de la cuenta de acceso no implica necesariamente la supresión inmediata o total de todos los registros históricos, porque ciertos datos pueden conservarse por obligaciones legales, regulatorias, de seguridad, auditoría, trazabilidad o atención de reclamos.
+
+Para más detalle, consulte el recurso público de [Solicitud de baja y eliminación de cuenta](eliminacion-cuenta).
+
+---
+
+## 9. Disponibilidad del servicio
+
+- La Cooperativa procura mantener la Aplicación disponible, pero no garantiza funcionamiento ininterrumpido.
+- Pueden producirse interrupciones por mantenimiento, actualizaciones, problemas de conectividad, contingencias operativas o causas fuera del control de la Cooperativa.
+- Algunas funciones pueden habilitarse o deshabilitarse por versión, perfil, entorno técnico o decisión operativa.
+
+---
+
+## 10. Privacidad y datos personales
+
+El tratamiento de datos personales se rige por la [Política de Privacidad](privacidad) vigente de Santa Isabel, que forma parte integral de estos Términos.
+
+La persona usuaria acepta que la Cooperativa trate los datos necesarios para autenticación, consulta de cuentas, solicitudes de retiro, votaciones institucionales, atención de incidentes, seguridad y cumplimiento de obligaciones legales y regulatorias.
+
+---
+
+## 11. Limitación de responsabilidad
 
 La Cooperativa no será responsable por:
 
-- Daños derivados del uso inadecuado de la Aplicación por parte del usuario.
-- Pérdidas ocasionadas por la divulgación de credenciales por parte del usuario.
-- Interrupciones del servicio causadas por factores externos (fallas de Internet, fallas del dispositivo, fuerza mayor).
-- Decisiones financieras tomadas con base en la información consultada a través de la Aplicación.
+- interrupciones o fallas derivadas de conectividad, servicios de terceros, dispositivo del usuario o fuerza mayor;
+- daños causados por el uso indebido de la Aplicación o por compartir credenciales;
+- decisiones personales o financieras tomadas exclusivamente con base en la información consultada en la Aplicación;
+- demoras o resultados de solicitudes sujetas a validaciones internas, regulatorias o de seguridad.
 
 ---
 
-## 9. Privacidad y protección de datos
+## 12. Propiedad intelectual
 
-El tratamiento de datos personales se rige por nuestra [Política de Privacidad](privacidad), que forma parte integral de estos Términos.
+La Aplicación, sus textos, diseños, logotipos, marcas y elementos asociados pertenecen a la Cooperativa o a sus respectivos titulares cuando corresponda.
 
----
-
-## 10. Actualizaciones de la Aplicación
-
-- La Cooperativa podrá publicar actualizaciones de la Aplicación para mejorar funcionalidades, corregir errores o cumplir con requisitos de seguridad.
-- Se recomienda al usuario mantener la Aplicación actualizada a la última versión disponible.
-- Versiones obsoletas de la Aplicación podrían dejar de funcionar sin previo aviso.
+No se autoriza su reproducción, distribución o modificación fuera de los usos permitidos por la ley y por autorización expresa de la Cooperativa.
 
 ---
 
-## 11. Terminación
+## 13. Modificaciones
 
-- El usuario puede dejar de usar la Aplicación en cualquier momento desinstalándola de su dispositivo.
-- La Cooperativa se reserva el derecho de suspender o cancelar el acceso de un usuario en caso de incumplimiento de estos Términos o de los estatutos de la Cooperativa.
+La Cooperativa puede actualizar estos Términos cuando cambien las funcionalidades de la Aplicación, los procesos internos, la normativa aplicable o los requisitos de plataformas de distribución.
 
----
-
-## 12. Modificaciones a estos Términos
-
-La Cooperativa se reserva el derecho de modificar estos Términos en cualquier momento. Los cambios serán notificados a través de la Aplicación o los canales oficiales de la Cooperativa. El uso continuado de la Aplicación tras la publicación de cambios constituye la aceptación de los mismos.
+La versión vigente debe publicarse en un recurso accesible al usuario e indicar su fecha de última actualización.
 
 ---
 
-## 13. Legislación aplicable y jurisdicción
+## 14. Legislación aplicable y jurisdicción
 
-- Estos Términos se rigen por las leyes de la República del Perú.
-- Cualquier controversia derivada del uso de la Aplicación será resuelta ante los tribunales competentes de la ciudad de Lima, Perú.
+Estos Términos se rigen por las leyes de la República del Perú.
+
+Cualquier controversia vinculada al uso de la Aplicación se resolverá conforme al marco legal aplicable y ante las autoridades o tribunales competentes según corresponda.
 
 ---
 
-## 14. Contacto
+## 15. Contacto
 
-Para consultas sobre estos Términos y Condiciones:
+Para consultas sobre la Aplicación, estos Términos o la cuenta del usuario:
 
-- **Correo electrónico**: socia@santaisabel.com.pe
-- **Sitio web**: [santaisabel.com.pe](https://santaisabel.com.pe/)
-- **Dirección**: Oficina principal de la Cooperativa de Ahorro y Crédito Santa Isabel
+- **WhatsApp:** +51 905 465 005
+- **Sitio web:** [santaisabel.com.pe](https://santaisabel.com.pe/)
 
 ---
 

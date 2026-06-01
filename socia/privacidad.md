@@ -1,154 +1,165 @@
 ---
 layout: default
-title: Política de Privacidad — Socia
+title: Política de Privacidad — Santa Isabel
 ---
 
-# Política de Privacidad — Socia
+# Política de Privacidad — Santa Isabel
 
-**Última actualización:** 6 de marzo de 2026
+**Última actualización:** 1 de junio de 2026
 
-La **Cooperativa de Ahorro y Crédito Santa Isabel** (en adelante, "la Cooperativa", "nosotros") opera la aplicación móvil **Socia** (en adelante, "la Aplicación"). Esta Política de Privacidad describe cómo recopilamos, usamos y protegemos la información personal de nuestros usuarios.
+La **Cooperativa de Ahorro y Crédito Santa Isabel** (en adelante, "la Cooperativa") opera la aplicación móvil **Santa Isabel** (en adelante, "la Aplicación"). Esta Política de Privacidad describe qué datos tratamos, para qué los usamos y cómo protegemos la información personal y financiera relacionada con el uso de la Aplicación.
 
 Al descargar, instalar o utilizar la Aplicación, usted acepta las prácticas descritas en esta Política de Privacidad.
 
 ---
 
-## 1. Responsable del tratamiento de datos
+## 1. Responsable del tratamiento
 
 | Campo | Detalle |
 |-------|---------|
 | Razón social | Cooperativa de Ahorro y Crédito Santa Isabel |
 | Sitio web | [santaisabel.com.pe](https://santaisabel.com.pe/) |
 | País | Perú |
-| Contacto | socia@santaisabel.com.pe |
+| Canal operativo de atención y derechos ARCO | WhatsApp +51 905 465 005 |
 
 ---
 
-## 2. Información que recopilamos
+## 2. Datos que tratamos
 
-### 2.1 Información proporcionada por el usuario
+La Aplicación trata datos personales y financieros necesarios para autenticar al socio, mostrar información de sus cuentas, permitir solicitudes de retiro y soportar procesos institucionales de la Cooperativa.
+
+### 2.1 Datos proporcionados directamente por el usuario
 
 | Dato | Finalidad |
 |------|-----------|
 | **Documento Nacional de Identidad (DNI)** | Identificación y autenticación del socio |
-| **Contraseña** | Autenticación de acceso (no se almacena en el dispositivo) |
+| **Contraseña** | Autenticación de acceso |
+| **Clave SMS u OTP** | Registro, recuperación o validación de identidad cuando aplica |
 
-### 2.2 Información obtenida del servidor de la Cooperativa
+Importante: la Aplicación no lee la bandeja de SMS ni extrae códigos automáticamente del dispositivo.
+
+### 2.2 Datos obtenidos desde los sistemas de la Cooperativa
 
 | Dato | Finalidad |
 |------|-----------|
 | **Nombre completo** | Personalización de la experiencia del usuario |
-| **Número de teléfono** | Verificación de identidad mediante código SMS durante el registro |
-| **Fotografías del carnet de socio** | Identificación visual en la interfaz |
-| **Información de votaciones** | Participación en procesos de votación institucionales |
+| **Número de teléfono** | Verificación de identidad mediante código SMS cuando aplica |
+| **Nombre de grupo u otra información personal equivalente** | Soporte de funcionalidades institucionales |
+| **Fotografías del carnet de socia** | Identificación visual en flujos institucionales |
+| **Información de votación institucional** | Participación en procesos institucionales, incluyendo datos visibles de postulantes cuando el backend los provee |
+| **Información financiera de cuentas y retiros** | Consulta de saldos, detalle de cuentas y registro o seguimiento de solicitudes de retiro |
 
-### 2.3 Información técnica recopilada automáticamente
+Entre los datos financieros tratados pueden incluirse banco, CCI, titular, destino, saldos, monto acumulado, monto disponible, comisiones, identificadores de solicitud, número de operación y estado de solicitudes de retiro.
+
+### 2.3 Datos técnicos mínimos
 
 | Dato | Finalidad |
 |------|-----------|
-| **Información del paquete de la aplicación** (versión, nombre) | Compatibilidad y soporte técnico |
+| **Información técnica mínima** | Compatibilidad, versionado, soporte y funcionamiento básico del servicio |
 
 ---
 
-## 3. Información que NO recopilamos
+## 3. Datos que no recopilamos desde el dispositivo
 
-La Aplicación **no** recopila ni accede a:
+La Aplicación, en su versión auditada para esta publicación, no solicita ni accede de forma directa a:
 
-- Ubicación o datos de GPS
-- Contactos del dispositivo
-- Cámara o galería de fotos
-- Identificadores únicos del dispositivo (IMEI, serial, etc.)
-- Datos biométricos (huella dactilar, reconocimiento facial)
-- Contenido del portapapeles
-- Datos de uso o analítica (no usamos Firebase Analytics ni servicios similares)
-- Cookies de navegación
-
----
-
-## 4. Cómo usamos la información
-
-La información recopilada se utiliza exclusivamente para:
-
-1. **Autenticación**: Verificar la identidad del socio para dar acceso a la Aplicación.
-2. **Registro**: Validar la identidad del nuevo usuario mediante SMS.
-3. **Votaciones institucionales**: Permitir al socio participar en procesos de votación de la Cooperativa.
-4. **Personalización**: Mostrar el nombre del socio en la interfaz.
-5. **Soporte técnico**: Identificar la versión de la Aplicación para resolver incidencias.
-
-No utilizamos la información con fines de publicidad, marketing ni la compartimos con fines comerciales.
+- ubicación precisa o aproximada;
+- contactos del dispositivo;
+- cámara o galería del dispositivo;
+- identificadores únicos del dispositivo como IMEI o número de serie;
+- datos biométricos;
+- contenido del portapapeles;
+- analítica publicitaria o rastreadores de marketing;
+- bandeja de SMS o correo del usuario.
 
 ---
 
-## 5. Almacenamiento y seguridad
+## 4. Finalidades del tratamiento
 
-### 5.1 Almacenamiento local
+Tratamos la información para:
 
-- El **DNI** y el **nombre completo** se almacenan localmente en el dispositivo para mantener la sesión activa.
-- La **contraseña** no se almacena en el dispositivo.
-- Los **datos de votaciones** y **montos financieros** no se almacenan localmente; se consultan en tiempo real desde el servidor.
+1. autenticar a la persona usuaria y permitir el acceso a la Aplicación;
+2. validar identidad durante registro, recuperación de acceso y confirmaciones por OTP;
+3. mostrar cuentas de ahorro, saldos y detalle de cuentas del propio socio;
+4. registrar y consultar solicitudes de retiro;
+5. habilitar procesos institucionales como votaciones y mostrar la información necesaria para esos flujos;
+6. atender consultas, incidencias y solicitudes relacionadas con la cuenta o los datos personales;
+7. cumplir obligaciones internas, contractuales, legales, regulatorias y de auditoría aplicables a la Cooperativa.
 
-### 5.2 Comunicación con servidores
-
-- Toda la comunicación entre la Aplicación y los servidores de la Cooperativa se realiza a través de conexiones HTTPS cifradas.
-- Las credenciales se transmiten usando cifrado asimétrico (RSA).
-
-### 5.3 Eliminación de datos locales
-
-- Al cerrar sesión, los datos almacenados localmente en el dispositivo se eliminan.
-- Al desinstalar la Aplicación, todos los datos locales se eliminan automáticamente por el sistema operativo.
+No usamos los datos para publicidad comportamental ni los vendemos a terceros.
 
 ---
 
-## 6. Compartición de datos con terceros
-
-**No compartimos** información personal con terceros, salvo:
-
-- **Obligación legal**: Cuando sea requerido por ley, orden judicial o autoridad competente del Perú.
-- **Infraestructura en la nube**: Los servidores de la Cooperativa están alojados en Google Cloud Platform, que actúa como proveedor de infraestructura bajo sus propias políticas de seguridad y privacidad.
+## 5. Compartición de datos con terceros
 
 No vendemos, alquilamos ni comercializamos datos personales.
 
----
+Los datos pueden ser tratados o accesibles por terceros solo en estos supuestos:
 
-## 7. Derechos del usuario
+- proveedores de infraestructura o hosting que soportan los sistemas de la Cooperativa;
+- cumplimiento de obligaciones legales, regulatorias, requerimientos de autoridad competente o defensa de derechos;
+- servicios externos activados por decisión expresa del usuario.
 
-De acuerdo con la Ley N° 29733 — Ley de Protección de Datos Personales del Perú y su Reglamento, usted tiene derecho a:
-
-- **Acceder** a sus datos personales.
-- **Rectificar** datos inexactos o incompletos.
-- **Cancelar** (eliminar) sus datos personales.
-- **Oponerse** al tratamiento de sus datos.
-
-Para ejercer estos derechos, puede comunicarse con nosotros a través de los datos de contacto indicados en la Sección 1.
+En la versión auditada, el único salto visible a un tercero desde la Aplicación es la apertura de WhatsApp por acción del usuario. Esa acción abre un chat con el número de atención configurado por la Cooperativa y no adjunta automáticamente datos personales o financieros más allá del texto inicial predefinido.
 
 ---
 
-## 8. Retención de datos
+## 6. Seguridad
 
-- Los datos locales se conservan mientras la sesión esté activa y se eliminan al cerrar sesión o desinstalar la Aplicación.
-- Los datos almacenados en los servidores de la Cooperativa se retienen conforme a las políticas internas y obligaciones regulatorias de la Cooperativa.
+- La versión publicada de la Aplicación debe operar contra backend HTTPS.
+- La Cooperativa aplica medidas técnicas y organizativas razonables para proteger la información contra acceso no autorizado, alteración, pérdida o divulgación indebida.
+- La contraseña no debe almacenarse localmente en texto plano en el dispositivo.
+- La mayor parte de la información personal y financiera se consulta desde los sistemas de la Cooperativa según el flujo que ejecuta el usuario.
+
+Esta Política no declara mecanismos criptográficos específicos que no puedan sostenerse técnicamente en la versión publicada.
+
+---
+
+## 7. Conservación de la información
+
+- La información tratada en los servidores de la Cooperativa se conserva por el tiempo necesario para prestar el servicio y cumplir obligaciones legales, regulatorias, contables, antifraude, de seguridad y auditoría.
+- Los datos relacionados con operaciones de ahorro, solicitudes de retiro y trazabilidad institucional pueden conservarse aun cuando la persona solicite la baja o eliminación de cuenta, en la medida permitida o exigida por la normativa aplicable.
+- El cierre de sesión o la eliminación de la Aplicación elimina solamente la información local que efectivamente exista en el dispositivo; no elimina por sí sola los registros mantenidos por la Cooperativa en sus sistemas.
+
+---
+
+## 8. Derechos del usuario y solicitudes de eliminación
+
+La persona usuaria puede solicitar acceso, rectificación, cancelación, oposición y, cuando corresponda, eliminación o baja de cuenta mediante el canal operativo oficial:
+
+- **WhatsApp:** +51 905 465 005
+
+También puede consultar el recurso público de [Solicitud de baja y eliminación de cuenta](eliminacion-cuenta).
+
+Al recibir una solicitud, la Cooperativa evaluará su procedencia y ejecutará las acciones que correspondan conforme a la ley y a sus obligaciones regulatorias.
+
+Importante:
+
+- solicitar baja o eliminación de cuenta no implica necesariamente la supresión inmediata o total de todos los registros históricos;
+- ciertos datos podrán mantenerse cuando exista obligación legal, regulatoria, contractual, de auditoría o defensa ante reclamos.
 
 ---
 
 ## 9. Menores de edad
 
-La Aplicación está dirigida a socios de la Cooperativa de Ahorro y Crédito Santa Isabel. No está diseñada para menores de edad ni recopilamos intencionalmente información de menores de 18 años.
+La Aplicación está dirigida a socios y socias de la Cooperativa. No está orientada a menores de edad y no buscamos recopilar intencionalmente datos de menores de 18 años.
 
 ---
 
-## 10. Cambios en esta política
+## 10. Cambios a esta política
 
-Nos reservamos el derecho de actualizar esta Política de Privacidad. Cualquier cambio se notificará a través de la Aplicación o de los canales oficiales de la Cooperativa. La fecha de última actualización se indicará al inicio de este documento.
+La Cooperativa puede actualizar esta Política cuando cambien las funcionalidades de la Aplicación, los procesos internos, los requerimientos regulatorios o las exigencias de plataformas de distribución.
+
+La versión vigente debe publicar una fecha de última actualización y reflejar de forma fiel la funcionalidad real de la Aplicación publicada.
 
 ---
 
 ## 11. Contacto
 
-Si tiene preguntas o inquietudes sobre esta Política de Privacidad, puede contactarnos:
+Para consultas sobre privacidad, datos personales o solicitudes relacionadas con la cuenta:
 
-- **Correo electrónico**: socia@santaisabel.com.pe
-- **Sitio web**: [santaisabel.com.pe](https://santaisabel.com.pe/)
-- **Dirección**: Oficina principal de la Cooperativa de Ahorro y Crédito Santa Isabel
+- **WhatsApp:** +51 905 465 005
+- **Sitio web:** [santaisabel.com.pe](https://santaisabel.com.pe/)
 
 ---
 
