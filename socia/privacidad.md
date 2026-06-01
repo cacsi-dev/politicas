@@ -46,7 +46,7 @@ Importante: la Aplicación no lee la bandeja de SMS ni extrae códigos automáti
 | **Número de teléfono** | Verificación de identidad mediante código SMS cuando aplica |
 | **Nombre de grupo u otra información personal equivalente** | Soporte de funcionalidades institucionales |
 | **Fotografías del carnet de socia** | Identificación visual en flujos institucionales |
-| **Información de votación institucional** | Participación en procesos institucionales, incluyendo datos visibles de postulantes cuando el backend los provee |
+| **Información de votación institucional** | Participación en procesos institucionales, incluyendo datos visibles de postulantes como monto solicitado y calificación crediticia cuando el backend los provee |
 | **Información financiera de cuentas y retiros** | Consulta de saldos, detalle de cuentas y registro o seguimiento de solicitudes de retiro |
 
 Entre los datos financieros tratados pueden incluirse banco, CCI, titular, destino, saldos, monto acumulado, monto disponible, comisiones, identificadores de solicitud, número de operación y estado de solicitudes de retiro.
