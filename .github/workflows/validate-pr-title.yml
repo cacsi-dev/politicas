@@ -16,6 +16,14 @@ on:
   pull_request:
     types: [opened, edited, synchronize, reopened]
 
+# La organización tiene 'default_workflow_permissions: read', que concede contents y
+# metadata pero NO pull-requests. La acción consulta la PR por API para leer el título
+# vigente —el del payload puede estar desactualizado tras un 'edited'—, así que sin este
+# bloque falla con "Resource not accessible by integration" en TODA PR, sea cual sea el
+# título. Que es peor que no validar: pone en rojo a quien hizo las cosas bien.
+permissions:
+  pull-requests: read
+
 jobs:
   validate-title:
     name: Conventional Commits
@@ -50,5 +58,13 @@ jobs:
           # Se sigue aceptando cuando viene: 'chore(deps)' es el título que genera
           # Dependabot. Lo que se retira es pedirlo a mano.
           requireScope: false
-          headerPattern: '^(feat|fix|refactor|perf|test|docs|ci|chore)(\(.+\))?!?: .+$'
-          headerPatternCorrespondence: type, scope, subject
+
+          # No se declara headerPattern. La acción trae por defecto el parser de
+          # referencia de Conventional Commits, que ya entiende el ámbito opcional y el
+          # '!' de breaking change.
+          #
+          # Había uno propio y estaba mal: declaraba 'type, scope, subject' en
+          # headerPatternCorrespondence pero solo abría dos grupos de captura —el sujeto
+          # era '.+' sin paréntesis—, así que la acción no encontraba el sujeto y
+          # rechazaba TODO título con "No subject found". Mantener una copia artesanal de
+          # la especificación solo agrega una superficie donde equivocarse.
