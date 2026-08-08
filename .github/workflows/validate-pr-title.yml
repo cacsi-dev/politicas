@@ -1,0 +1,54 @@
+# validate-pr-title.yml
+# Valida que el título del PR siga Conventional Commits.
+#
+# Con squash como único método de merge (R26), el título del PR es el mensaje
+# del único commit que llega a main, y la entrada con la que release-please
+# calcula la versión de cada componente (ADR 0010 del handbook).
+#
+# Se despliega a todos los repos con scripts/deploy-workflows.ps1.
+# Para que además bloquee el merge, el ruleset de la org debe declararlo en
+# required_status_checks con el context "Conventional Commits" —que es el
+# `name:` del job, no el del workflow.
+
+name: Validate PR Title
+
+on:
+  pull_request:
+    types: [opened, edited, synchronize, reopened]
+
+jobs:
+  validate-title:
+    name: Conventional Commits
+    runs-on: ubuntu-latest
+    steps:
+      - name: Validar título del PR
+        uses: amannn/action-semantic-pull-request@v5
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          # Tipos estándar de Conventional Commits, que es lo que release-please
+          # sabe leer. No se agregan tipos propios: un tipo que la herramienta no
+          # reconoce no produce release, y sin release no hay despliegue.
+          #
+          # Por eso 'hotfix' no está: parecía útil, pero habría hecho que
+          # justamente los cambios urgentes fueran los únicos que no se despliegan.
+          # Un hotfix es un 'fix'; la urgencia se coordina, no se escribe en el título.
+          types: |
+            feat
+            fix
+            refactor
+            perf
+            test
+            docs
+            ci
+            chore
+          # El ámbito no se pide. No decide qué componente sube —eso lo resuelve
+          # release-please por la ruta de los archivos modificados (ADR 0010 §3)— y la
+          # mayoría de los cambios atraviesan db, api y app a la vez, así que exigirlo
+          # obligaría a elegir una capa arbitraria.
+          #
+          # Se sigue aceptando cuando viene: 'chore(deps)' es el título que genera
+          # Dependabot. Lo que se retira es pedirlo a mano.
+          requireScope: false
+          headerPattern: '^(feat|fix|refactor|perf|test|docs|ci|chore)(\(.+\))?!?: .+$'
+          headerPatternCorrespondence: type, scope, subject
