@@ -19,6 +19,16 @@ Aplicación móvil para socios y socias de la Cooperativa.
 
 ---
 
+## Gruppi
+
+Aplicación de créditos grupales para mujeres emprendedoras en Perú.
+
+- [Política de Privacidad](gruppi/privacidad)
+- [Términos y Condiciones de Uso](gruppi/terminos)
+- [Solicitud de baja y eliminación de cuenta](gruppi/eliminacion-cuenta)
+
+---
+
 Para consultas operativas: **WhatsApp +51 905 465 005**
 
 [www.santaisabel.com.pe](https://santaisabel.com.pe/)
