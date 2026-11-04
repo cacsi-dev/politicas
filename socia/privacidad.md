@@ -5,7 +5,7 @@ title: Política de Privacidad — Santa Isabel
 
 # Política de Privacidad — Santa Isabel
 
-**Última actualización:** 1 de junio de 2026
+**Última actualización:** 4 de noviembre de 2026
 
 La **Cooperativa de Ahorro y Crédito Santa Isabel** (en adelante, "la Cooperativa") opera la aplicación móvil **Santa Isabel** (en adelante, "la Aplicación"). Esta Política de Privacidad describe qué datos tratamos, para qué los usamos y cómo protegemos la información personal y financiera relacionada con el uso de la Aplicación.
 
@@ -57,6 +57,21 @@ Entre los datos financieros tratados pueden incluirse banco, CCI, titular, desti
 |------|-----------|
 | **Información técnica mínima** | Compatibilidad, versionado, soporte y funcionamiento básico del servicio |
 
+### 2.4 Datos de uso de la Aplicación
+
+Para saber cómo se usa la Aplicación y mejorarla, la Aplicación registra cómo se navega en ella y envía esos registros a los sistemas de la Cooperativa.
+
+| Dato | Detalle |
+|------|---------|
+| **Identificador de la cuenta** | El identificador interno de la sesión iniciada, para relacionar el uso con la cuenta. Lo que ocurre antes de iniciar sesión se registra sin identificador de cuenta |
+| **Identificador de instalación** | Un código aleatorio que genera la Aplicación la primera vez que se abre. No es el IMEI, el número de serie ni otro identificador del aparato, y deja de existir al desinstalar la Aplicación o borrar sus datos |
+| **Identificador de sesión** | Un código aleatorio por cada uso de la Aplicación |
+| **Interacciones en la Aplicación** | Pantallas visitadas, tiempo en cada una, botones y opciones que se tocan, beneficios y avisos que se abren, el resultado de pasos como el registro, el inicio de sesión o una solicitud de retiro (por ejemplo, si terminó bien o el motivo por el que no se pudo), y eventos como el inicio o el cierre de una sesión |
+| **Diagnóstico** | Tipo y ubicación de los errores de la Aplicación y códigos de respuesta del servicio. No se registran el mensaje del error ni lo escrito en la pantalla |
+| **Datos del dispositivo** | Versión de la Aplicación y del sistema operativo, fabricante y modelo del teléfono |
+
+Estos registros no incluyen saldos, montos, datos bancarios, contraseñas ni códigos de verificación.
+
 ---
 
 ## 3. Datos que no recopilamos desde el dispositivo
@@ -66,7 +81,7 @@ La Aplicación, en su versión auditada para esta publicación, no solicita ni a
 - ubicación precisa o aproximada;
 - contactos del dispositivo;
 - cámara o galería del dispositivo;
-- identificadores únicos del dispositivo como IMEI o número de serie;
+- identificadores únicos del dispositivo como IMEI o número de serie (el identificador de instalación de la sección 2.4 lo genera la propia Aplicación);
 - datos biométricos;
 - contenido del portapapeles;
 - analítica publicitaria o rastreadores de marketing;
@@ -84,7 +99,8 @@ Tratamos la información para:
 4. registrar y consultar solicitudes de retiro;
 5. habilitar procesos institucionales como votaciones y mostrar la información necesaria para esos flujos;
 6. atender consultas, incidencias y solicitudes relacionadas con la cuenta o los datos personales;
-7. cumplir obligaciones internas, contractuales, legales, regulatorias y de auditoría aplicables a la Cooperativa.
+7. cumplir obligaciones internas, contractuales, legales, regulatorias y de auditoría aplicables a la Cooperativa;
+8. medir el uso de la Aplicación, detectar errores y mejorar su funcionamiento, con los datos de la sección 2.4.
 
 No usamos los datos para publicidad comportamental ni los vendemos a terceros.
 
@@ -99,6 +115,8 @@ Los datos pueden ser tratados o accesibles por terceros solo en estos supuestos:
 - proveedores de infraestructura o hosting que soportan los sistemas de la Cooperativa;
 - cumplimiento de obligaciones legales, regulatorias, requerimientos de autoridad competente o defensa de derechos;
 - servicios externos activados por decisión expresa del usuario.
+
+Los datos de uso de la sección 2.4 se envían solo a los sistemas de la Cooperativa. Ningún servicio externo de analítica o publicidad los recibe.
 
 En la versión auditada, el único salto visible a un tercero desde la Aplicación es la apertura de WhatsApp por acción del usuario. Esa acción abre un chat con el número de atención configurado por la Cooperativa y no adjunta automáticamente datos personales o financieros más allá del texto inicial predefinido.
 
@@ -119,6 +137,7 @@ Esta Política no declara mecanismos criptográficos específicos que no puedan 
 
 - La información tratada en los servidores de la Cooperativa se conserva por el tiempo necesario para prestar el servicio y cumplir obligaciones legales, regulatorias, contables, antifraude, de seguridad y auditoría.
 - Los datos relacionados con operaciones de ahorro, solicitudes de retiro y trazabilidad institucional pueden conservarse aun cuando la persona solicite la baja o eliminación de cuenta, en la medida permitida o exigida por la normativa aplicable.
+- Los datos de uso de la sección 2.4 se conservan por un plazo limitado, solo mientras sirvan para analizar el uso de la Aplicación. En el teléfono se guardan solo hasta que se envían.
 - El cierre de sesión o la eliminación de la Aplicación elimina solamente la información local que efectivamente exista en el dispositivo; no elimina por sí sola los registros mantenidos por la Cooperativa en sus sistemas.
 
 ---
@@ -130,6 +149,8 @@ La persona usuaria puede solicitar acceso, rectificación, cancelación, oposici
 - **WhatsApp:** +51 905 465 005
 
 También puede consultar el recurso público de [Solicitud de baja y eliminación de cuenta](eliminacion-cuenta).
+
+Si la persona usuaria pide eliminar sus datos de uso de la Aplicación (sección 2.4), la Cooperativa borra los registros asociados a su cuenta.
 
 Al recibir una solicitud, la Cooperativa evaluará su procedencia y ejecutará las acciones que correspondan conforme a la ley y a sus obligaciones regulatorias.
 
