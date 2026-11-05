@@ -67,37 +67,37 @@ La solicitud tramitada en la Aplicación **no constituye una aprobación**. Toda
 
 - **Moneda:** soles (PEN).
 - **Monto mínimo:** S/ 300 · **Monto máximo:** S/ 1 400.
-- **Plazo mínimo de repago:** 28 días · **Plazo máximo de repago:** 150 días.
+- **Plazo mínimo de repago:** 84 días · **Plazo máximo de repago:** 150 días.
 - **Pago anticipado:** no se cobra comisión ni penalidad. La socia puede adelantar cuotas o cancelar su crédito en cualquier momento.
 - Todos los cargos se informan por adelantado.
 
-La más alta de las Tasas de Costo Efectivo Anual vigentes es la de la modalidad semanal: **678,4955 %**.
+La más alta de las Tasas de Costo Efectivo Anual vigentes es la de la modalidad catorcenal: **267,0033 %**.
 
 ### 4.2 Tarifario por modalidad
 
-| Concepto | Semanal | Catorcenal | Mensual |
-|---|---:|---:|---:|
-| Frecuencia de pago | semanal | catorcenal | mensual |
-| Número de cuotas | 4 | 6 | 5 |
-| Duración | 28 días | 84 días | 150 días |
-| Tasa de interés compensatorio | 6,200 % mensual<br>(105,82 % anual) | 6,200 % mensual<br>(105,82 % anual) | 6,350 % mensual<br>(109,34 % anual) |
-| Comisión | 11,800 % mensual<br>(281,33 % anual) | 5,000 % mensual<br>(79,59 % anual) | 1,680 % mensual<br>(22,13 % anual) |
-| Servicio de protección al prestatario | 0,056 % mensual<br>(0,67 % anual) | 0,056 % mensual<br>(0,67 % anual) | 0,056 % mensual<br>(0,67 % anual) |
-| TCEM | 18,6510 % | 11,4438 % | 8,0865 % |
-| TCEA | 678,4955 % | 267,0033 % | 154,2482 % |
+| Concepto | Catorcenal | Mensual |
+|---|---:|---:|
+| Frecuencia de pago | catorcenal | mensual |
+| Número de cuotas | 6 | 5 |
+| Duración | 84 días | 150 días |
+| Tasa de interés compensatorio | 6,200 % mensual<br>(105,82 % anual) | 6,350 % mensual<br>(109,34 % anual) |
+| Comisión | 5,000 % mensual<br>(79,59 % anual) | 1,680 % mensual<br>(22,13 % anual) |
+| Servicio de protección al prestatario | 0,056 % mensual<br>(0,67 % anual) | 0,056 % mensual<br>(0,67 % anual) |
+| TCEM | 11,4438 % | 8,0865 % |
+| TCEA | 267,0033 % | 154,2482 % |
 
 ### 4.3 Ejemplos representativos
 
-| Concepto | Semanal | Catorcenal | Mensual |
-|---|---:|---:|---:|
-| Monto de préstamo | S/ 550,00 | S/ 1 200,00 | S/ 1 300,00 |
-| Monto facturado incluyendo comisiones | S/ 578,00 | S/ 1 284,00 | S/ 1 440,00 |
-| Número de cuotas | 4 | 6 | 5 |
-| Plazo | 28 días | 84 días | 150 días |
-| Valor de cada cuota | S/ 159,50 | S/ 254,48 | S/ 361,48 |
-| Intereses | S/ 20,88 | S/ 133,60 | S/ 288,53 |
-| Comisiones | S/ 39,12 | S/ 109,28 | S/ 78,87 |
-| Total aproximado a pagar | S/ 638,00 | S/ 1 526,88 | S/ 1 807,40 |
+| Concepto | Catorcenal | Mensual |
+|---|---:|---:|
+| Monto de préstamo | S/ 1 200,00 | S/ 1 300,00 |
+| Monto facturado incluyendo comisiones | S/ 1 284,00 | S/ 1 440,00 |
+| Número de cuotas | 6 | 5 |
+| Plazo | 84 días | 150 días |
+| Valor de cada cuota | S/ 254,48 | S/ 361,48 |
+| Intereses | S/ 133,60 | S/ 288,53 |
+| Comisiones | S/ 109,28 | S/ 78,87 |
+| Total aproximado a pagar | S/ 1 526,88 | S/ 1 807,40 |
 
 Los cargos adicionales se cobran al momento del desembolso, de modo que el importe que la socia recibe en su cuenta es menor que el monto facturado sobre el que se calculan las cuotas.
 
